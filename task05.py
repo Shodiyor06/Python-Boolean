@@ -1,2 +1,4 @@
-email = input("Email: ")
-print("@" in email)
+# task05.py
+email = input()
+result = "@" in email
+print(result)

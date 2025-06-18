@@ -1,4 +1,5 @@
 # task31.py
-gender = input("Jinsi (male/female): ")
-age = int(input("Yoshi: "))
-print(gender == "male" or age > 60)
+gender = input()
+age = int(input())
+result = gender == "male" or age > 60
+print(result)

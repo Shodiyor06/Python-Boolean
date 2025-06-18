@@ -1,3 +1,5 @@
-input_username = input("Login: ")
-expected_username = input("Kutilgan login: ")
-print(input_username == expected_username)
+# task08.py
+input_username = input()
+expect_username = input()
+result = input_username == expect_username
+print(result)

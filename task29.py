@@ -1,3 +1,4 @@
 # task29.py
-is_typing = input("Yozayaptimi? (True/False): ") == "True"
-print(not is_typing)
+is_typing = input() == "True"
+result = not is_typing
+print(result)

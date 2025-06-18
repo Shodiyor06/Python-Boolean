@@ -1,3 +1,4 @@
 # task26.py
-mode = input("Rejimni kiriting (light/dark): ")
-print(mode == "light" or mode == "dark")
+mode = input()
+result = mode == "light" or mode == "dark"
+print(result)

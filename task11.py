@@ -1,2 +1,4 @@
-days_left = int(input("Qolgan kunlar: "))
-print(days_left <= 0)
+# task11.py
+days_left = int(input())
+result = days_left <= 0
+print(result)

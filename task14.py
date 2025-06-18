@@ -1,2 +1,4 @@
-price = float(input("Narx: "))
-print(price > 500000)
+# task14.py
+price = float(input())
+result = price > 500000
+print(result)

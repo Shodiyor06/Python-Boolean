@@ -1,3 +1,4 @@
 # task25.py
-password = input("Parolni kiriting: ")
-print(password != "secret123")
+password = input()
+result = password != "secret123"
+print(result)

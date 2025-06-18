@@ -1,3 +1,4 @@
 # task37.py
-language = input("Tilni kiriting: ")
-print(language != "uz" and language != "en")
+language = input()
+result = not (language == "uz" or language == "en")
+print(result)

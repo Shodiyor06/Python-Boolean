@@ -1,2 +1,4 @@
-letter = input("Harf: ")
-print(letter.isupper())
+# task13.py
+letter = input()
+result = letter.isupper()
+print(result)

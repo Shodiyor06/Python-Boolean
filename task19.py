@@ -1,2 +1,4 @@
-year = int(input("Yil: "))
-print((year % 4 == 0 and year % 100 != 0) or (year % 400 == 0))
+# task19.py
+year = int(input())
+result = (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+print(result)

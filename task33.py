@@ -1,4 +1,5 @@
 # task33.py
-logged_in = input("Tizimga kirganmi? (True/False): ") == "True"
-is_admin = input("Adminmi? (True/False): ") == "True"
-print(logged_in and not is_admin)
+logged_in = input() == "True"
+is_admin = input() == "True"
+result = logged_in and not is_admin
+print(result)

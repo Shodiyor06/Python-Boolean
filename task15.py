@@ -1,3 +1,5 @@
-password = input("Parol: ")
-confirm = input("Tasdiqlash: ")
-print(password == confirm)
+# task15.py
+password = input()
+confirm = input()
+result = password == confirm
+print(result)

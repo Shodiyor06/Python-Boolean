@@ -1,4 +1,5 @@
 # task40.py
-pin = input("PIN kodni kiriting: ")
-correct_pin = input("To'g'ri PIN kod: ")
-print(pin != correct_pin or len(pin) != 4)
+pin = input()
+correct_pin = input()
+result = pin != correct_pin or len(pin) != 4
+print(result)

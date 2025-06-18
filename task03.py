@@ -1,2 +1,4 @@
-n = int(input("Son: "))
-print(n % 2 == 0)
+# task03.py
+n = int(input())
+result = n % 2 == 0
+print(result)

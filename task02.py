@@ -1,2 +1,4 @@
-phone = input("Telefon raqami: ")
-print(len(phone) == 9 and phone.isdigit())
+# task02.py
+phone = input()
+result = len(phone) == 9
+print(result)

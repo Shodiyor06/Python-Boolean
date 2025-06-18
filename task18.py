@@ -1,2 +1,4 @@
-temperature = float(input("Harorat: "))
-print(temperature < 0)
+# task18.py
+temperature = float(input())
+result = temperature < 0
+print(result)
